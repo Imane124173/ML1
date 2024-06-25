@@ -1,0 +1,18 @@
+# -*- coding: utf-8 -*-
+streamlit 
+pandas 
+seaborn 
+matplotlib.pyplot 
+sklearn.model_selection 
+sklearn.metrics 
+sklearn.metrics 
+streamlit_folium 
+PIL 
+sklearn.model_selection 
+sklearn.ensemble 
+sklearn.metrics
+pydeck
+folium.plugins
+sklearn.ensemble
+klearn.metrics
+
